@@ -1,0 +1,9 @@
+{
+    "LPIPS_latent/lung2covid": 0.2278686848282814,
+    "LPIPS_latent/normal2covid": 0.21593015372753144,
+    "LPIPS_latent/covid2lung": 0.24151847422122955,
+    "LPIPS_latent/normal2lung": 0.2363609167933464,
+    "LPIPS_latent/covid2normal": 0.1930696389079094,
+    "LPIPS_latent/lung2normal": 0.20404400646686555,
+    "LPIPS_latent/mean": 0.21979864582419398
+}

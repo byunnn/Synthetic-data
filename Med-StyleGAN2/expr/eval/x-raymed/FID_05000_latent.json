@@ -1,0 +1,9 @@
+{
+    "FID_latent/lung2covid": 55.17053203049741,
+    "FID_latent/normal2covid": 70.02861236323153,
+    "FID_latent/covid2lung": 78.49797672910745,
+    "FID_latent/normal2lung": 83.96268257598956,
+    "FID_latent/covid2normal": 57.51433115550346,
+    "FID_latent/lung2normal": 54.077780938255486,
+    "FID_latent/mean": 66.54198596543081
+}

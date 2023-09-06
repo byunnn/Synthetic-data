@@ -1,0 +1,8 @@
+#conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+pip install -U scikit-learn
+pip install os-sys
+pip install scikit-image
+pip install munch
+pip install opencv-python
+pip install tqdm
+pip install ffmpeg
